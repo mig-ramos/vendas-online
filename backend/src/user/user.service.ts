@@ -23,6 +23,7 @@ export class UserService {
       password: passwordHashed,
     });
   }
+
   async getAllUser(): Promise<UserEntity[]> {
     return this.userRepository.find();
   }
