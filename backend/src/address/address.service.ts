@@ -3,7 +3,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { CityService } from 'src/city/city.service';
 import { UserService } from 'src/user/user.service';
 import { Repository } from 'typeorm';
-import { CreateAddressDto } from './dtos/create.Address.dto';
+import { CreateAddressDto } from './dtos/createAddress.dto';
 import { AddressEntity } from './entities/address.entity';
 
 @Injectable()
