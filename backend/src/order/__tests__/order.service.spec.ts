@@ -2,7 +2,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { getRepositoryToken } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { OrderEntity } from '../entities/order.entity';
-import { OrderService } from '../order.service';
+import { OrderService } from '../../order/order.service';
 
 describe('OrderService', () => {
   let service: OrderService;
