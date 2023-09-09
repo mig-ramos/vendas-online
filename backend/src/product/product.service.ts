@@ -16,7 +16,7 @@ import { SizeProductDTO } from '../correios/dtos/size-product.dto';
 import { CorreiosService } from '../correios/correios.service';
 import { CdServiceEnum } from '../correios/enums/cd-service.enum';
 import { ReturnPriceDeliveryDto } from './dtos/return-price-delivery.dto';
-import { Pagination, PaginationMeta } from 'src/dtos/pagination.dto';
+import { Pagination, PaginationMeta } from '../dtos/pagination.dto';
 
 const DEFAULT_PAGE_SIZE = 10;
 const FIRST_PAGE = 1;
