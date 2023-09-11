@@ -1,0 +1,1 @@
+{"version":3,"file":"1693847936711-alter-table-payment.js","sourceRoot":"","sources":["../../src/migration/1693847936711-alter-table-payment.ts"],"names":[],"mappings":";;;AAEA,MAAa,8BAA8B;IAClC,KAAK,CAAC,EAAE,CAAC,WAAwB;QACtC,WAAW,CAAC,KAAK,CAAC;;;;SAIb,CAAC,CAAC;IACT,CAAC;IAEM,KAAK,CAAC,IAAI,CAAC,WAAwB;QACxC,WAAW,CAAC,KAAK,CAAC;SACb,CAAC,CAAC;IACT,CAAC;CACF;AAbD,wEAaC"}

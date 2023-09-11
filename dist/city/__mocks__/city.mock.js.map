@@ -1,0 +1,1 @@
+{"version":3,"file":"city.mock.js","sourceRoot":"","sources":["../../../src/city/__mocks__/city.mock.ts"],"names":[],"mappings":";;;AAAA,iEAA6D;AAGhD,QAAA,QAAQ,GAAe;IAClC,SAAS,EAAE,IAAI,IAAI,EAAE;IACrB,EAAE,EAAE,OAAO;IACX,IAAI,EAAE,UAAU;IAChB,OAAO,EAAE,sBAAS,CAAC,EAAE;IACrB,SAAS,EAAE,IAAI,IAAI,EAAE;CACtB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"update-product.mock.js","sourceRoot":"","sources":["../../../src/product/__mocks__/update-product.mock.ts"],"names":[],"mappings":";;;AAAA,0EAAsE;AAGzD,QAAA,iBAAiB,GAAqB;IACjD,UAAU,EAAE,4BAAY,CAAC,EAAE;IAC3B,KAAK,EAAE,UAAU;IACjB,IAAI,EAAE,QAAQ;IACd,KAAK,EAAE,IAAI;CACZ,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"1693101306928-alter-table-user.js","sourceRoot":"","sources":["../../src/migration/1693101306928-alter-table-user.ts"],"names":[],"mappings":";;;AAEA,MAAa,2BAA2B;IAC/B,KAAK,CAAC,EAAE,CAAC,WAAwB;QACtC,WAAW,CAAC,KAAK,CAAC;;KAEjB,CAAC,CAAC;IACL,CAAC;IAEM,KAAK,CAAC,IAAI,CAAC,WAAwB;QACxC,WAAW,CAAC,KAAK,CAAC;KACjB,CAAC,CAAC;IACL,CAAC;CACF;AAXD,kEAWC"}
